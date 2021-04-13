@@ -1,1 +1,1 @@
-# CARS2
+# car-racing-game
